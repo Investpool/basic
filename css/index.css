@@ -1,0 +1,38 @@
+.navbar{
+	background-color: blue;
+}
+.navbar-brand{
+	color: white;
+}
+.navbarNav{
+    display: flex;
+    color: white;
+}
+.nav-item{
+	margin-left: 30px;
+}
+.base_text{
+	display: flex;
+	
+}
+.t_one{
+    flex: 4;
+    border: 2px solid black;
+    border-radius: 8px;
+    margin: 4px;
+    text-align: center;
+}
+.t_two{
+	flex: 4;
+	border: 2px solid black;
+    border-radius: 8px;
+    margin: 4px;
+    text-align: center;
+}
+.t_three{
+	flex: 4;
+	border: 2px solid black;
+    border-radius: 8px;
+    margin: 4px;
+    text-align: center;
+}
